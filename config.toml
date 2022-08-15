@@ -1,6 +1,5 @@
-
 baseURL = "localhost"
-title   = "Hello Friend NG"
+title   = "R_Hasan"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -9,7 +8,7 @@ PygmentsStyle = "monokai"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+copyright = "" # This message is only used by the RSS template.
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -56,13 +55,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = ""
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "❛ঐশী জ্যোতিই আমাদের পথ প্রদর্শক❜"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -161,38 +160,38 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    # url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:sohandoabernahin1@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/Sohando"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    # url  = "https://www.linkedin.com/"
 
   [[params.social]]
     name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    # url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Into the wild"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  # [languages.fr]
+  #   subtitle  = "Hello Friend NG Theme"
+  #   weight    = 2
+  #   copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   
   [languages.bn]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 3
+    subtitle  = "পাঁচমিশালী "
+    weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 
