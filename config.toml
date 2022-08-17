@@ -1,4 +1,5 @@
-baseURL = "https://Sohando/github.io/r_hasan"
+# baseURL = "https://Sohando/github.io/r_hasan"
+baseURL="localhost"
 title   = "R_Hasan"
 languageCode = "en-us"
 theme = "hello-friend-ng"

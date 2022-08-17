@@ -1,9 +1,43 @@
 #+HUGO_BASE_DIR: ~/Blog/
+# #+title: Index
 
-* Hello World
+* Exploring Laravel
 :PROPERTIES:
-    :EXPORT_FILE_NAME: publications/index
-    :EXPORT_DATE: 2019-10-13
-    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :summary Writing hugo post in Emacs org.
-:END:
-Go To Hell
+:export_author: R_Hasan
+:export_date: 2022-08-16
+:export_hugo_section_frag: laravel
+:export_file_name: _index
+:end:
+
+** Preface
+Ahh! I met a client who was asking me to do an IoT project, but in laravel specifically. I was in need of money that time but I missed the client as I couldn't manage myself to confidently tell him I was an Laravel expert that he was looking for.
+
+This is going to be my self exploring laravel journey that may help me to become a Laravel friendly developer, and perhaps no client would be missed again.
+
+** Introduction
+# :PROPERTIES:
+# :Export_author: R_Hasan
+# :export_date: 2022-08-16
+# :export_hugo_section_frag: introduction
+# :export_file_name: introduction
+# :end:
+
+This is my first attempt to learn laravel
+
+*** Chapter 1
+:properties:
+:export_hugo_section_frag: chapter1
+:end:
+**** Reading List
+:properties:
+:export_file_name: _index
+:expOrt_date: 2022-08-14
+:end:
+In this chapter we have to overlook some of the following properties.
+
+**** Reading List 2
+:properties:
+:export_file_name: _index2
+:expOrt_date: 2022-08-14
+:end:
+In this chapter we have to overlook some of the following properties.
