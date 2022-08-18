@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "https://sohando.github.io"
 title = "R_Hasan - a DevOpsQA Blog"
 paginate = 5
 theme = "PaperMod"
