@@ -56,14 +56,14 @@ tocopen = false
   title = "R_Hasan"
   subtitle = "❛ঐশী জ্যোতিই আমাদের পথ প্রদর্শক❜"
   # imageUrl = "r_hasan.jpeg"
-  imageUrl = "playboy.jpeg"
+  imageUrl = "foring.jpeg"
   # imageWidth = 240
   # imageHeight = 240
   # imageWidth = 360
   # imageHeight = 360
   imageWidth = 120
   imageHeight = 120
-  imageTitle = "Md. Rakibul Hasan"
+  imageTitle = "Md. Rakibul Hasan (in a sense!)"
 
     [[params.profileMode.buttons]]
     name = "Posts"
