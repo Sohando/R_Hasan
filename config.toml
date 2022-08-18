@@ -14,11 +14,11 @@ disableXML = true
 minifyOutput = true
 
 [params]
-env = "production"
+env = "developement"
 title = "ExampleSite"
 description = "ExampleSite description"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Me"
+author = "R_Hasan"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
@@ -36,7 +36,7 @@ disableScrollToTop = false
 comments = false
 hidemeta = false
 hideSummary = false
-showtoc = false
+showtoc = true
 tocopen = false
 
   [params.assets]
@@ -52,13 +52,18 @@ tocopen = false
   iconHeight = 35
 
   [params.profileMode]
-  enabled = false
-  title = "ExampleSite"
-  subtitle = "This is subtitle"
-  imageUrl = "<img location>"
+  enabled = true
+  title = "R_Hasan"
+  subtitle = "❛ঐশী জ্যোতিই আমাদের পথ প্রদর্শক❜"
+  # imageUrl = "r_hasan.jpeg"
+  imageUrl = "playboy.jpeg"
+  # imageWidth = 240
+  # imageHeight = 240
+  # imageWidth = 360
+  # imageHeight = 360
   imageWidth = 120
   imageHeight = 120
-  imageTitle = "my image"
+  imageTitle = "Md. Rakibul Hasan"
 
     [[params.profileMode.buttons]]
     name = "Posts"
@@ -116,19 +121,19 @@ SiteVerificationTag = "XYZabc"
 identifier = "categories"
 name = "categories"
 url = "/categories/"
-weight = 30
+weight = 20
 
 [[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
+identifier = "archives"
+name = "archives"
+url = "/archives/"
 weight = 30
 
-[[menu.main]]
-identifier = "posts"
-name = "posts"
-url = "/posts/"
-weight = 10
+# [[menu.main]]
+# identifier = "posts"
+# name = "posts"
+# url = "/posts/"
+# weight = 10
 
 [markup.highlight]
 noClasses = false

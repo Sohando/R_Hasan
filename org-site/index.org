@@ -1,10 +1,37 @@
-#+HUGO_BASE_DIR: ~/r_hasan/
-# #+title: Index
+#+HUGO_BASE_DIR: ~/Blog/
 
-* Exploring Laravel
-:PROPERTIES:
+* Section is the paction of my love
+:properties:
 :export_author: R_Hasan
-:export_date: 2022-08-16
-:export_hugo_section_frag: laravel
-:export_file_name: _index
+:export_file_name: laravel
+:export_date: 2022-08-17
 :end:
+
+Going backward is not false.
+
+* This is the second post
+:properties:
+:export_hugo_tags: nothing flower
+:export_hugo_categories: testing sqa
+:export_author: R_Hasan
+:export_file_name: laravel-2
+:export_date: 2022-08-17
+:end:
+
+** Preface
+This is the preface of this post
+** Calling
+This is the calling of this post
+*** Intro
+This is the intro
+
+* My Third Post         :jest:fest:test:
+:properties:
+:export_author: R_Hasan
+:export_hugo_section_frag: testing
+:export_file_name: jest1
+:export_date: 2022-08-17
+:end:
+
+** Introduction
+jest is a testing tool.
