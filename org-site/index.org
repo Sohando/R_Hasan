@@ -1,37 +1,16 @@
-#+HUGO_BASE_DIR: ~/Blog/
+#+HUGO_BASE_DIR: ~/r_hasan/
 
-* Section is the paction of my love
+* Test Driven Development :@tdd:
 :properties:
+:export_hugo_section: posts/tdd
+:export_file_name: _index
 :export_author: R_Hasan
-:export_file_name: laravel
-:export_date: 2022-08-17
+:export_date: 19-08-2022 16:08pm
 :end:
 
-Going backward is not false.
-
-* This is the second post
-:properties:
-:export_hugo_tags: nothing flower
-:export_hugo_categories: testing sqa
-:export_author: R_Hasan
-:export_file_name: laravel-2
-:export_date: 2022-08-17
-:end:
 
 ** Preface
-This is the preface of this post
-** Calling
-This is the calling of this post
-*** Intro
-This is the intro
-
-* My Third Post         :jest:fest:test:
-:properties:
-:export_author: R_Hasan
-:export_hugo_section_frag: testing
-:export_file_name: jest1
-:export_date: 2022-08-17
-:end:
-
+While reading the **Clean Code**, I came to know about this term and felt the necessity of this in development life cycle. *TDD* has emerged as the savior in every of my git pull, newly introduced features that should not break the previous code base, and mores to mention.
 ** Introduction
-jest is a testing tool.
+*TDD* is the acronym for Test Driven Development. It's a RGR (Red-Green-Refactor) process where tests are written first before any logic is placed to solve the problem, as for the test will fail by default for lacking of logics. This is the *Red* state of TDD. Now our next goal becomes to write a program, may be an inefficient solution to the problem but that pass the cases. We are in the *Green* state mentioned in the acronym, now it's time to *Refactor* our code.
+** Frameworks

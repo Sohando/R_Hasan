@@ -1,4 +1,5 @@
 baseURL = "https://sohando.github.io/r_hasan"
+# baseURL = "localhost"
 title = "R_Hasan - a DevOpsQA Blog"
 paginate = 5
 theme = "PaperMod"
@@ -55,15 +56,16 @@ tocopen = false
   enabled = true
   title = "R_Hasan"
   subtitle = "❛ঐশী জ্যোতিই আমাদের পথ প্রদর্শক❜"
-  # imageUrl = "r_hasan.jpeg"
-  imageUrl = "foring.jpeg"
+  imageUrl = "r_hasan.jpeg"
+  # imageUrl = "foring.jpeg"
   # imageWidth = 240
   # imageHeight = 240
   # imageWidth = 360
   # imageHeight = 360
   imageWidth = 120
   imageHeight = 120
-  imageTitle = "Md. Rakibul Hasan (in a sense!)"
+  # imageTitle = "Md. Rakibul Hasan (in a sense!)"
+  imageTitle = "Md. Rakibul Hasan"
 
     [[params.profileMode.buttons]]
     name = "Posts"
