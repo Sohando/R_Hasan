@@ -1,8 +1,9 @@
 +++
 title = "Test Driven Development (TDD) with Jest"
 author = ["R_Hasan"]
-tags = ["jest", "tdd", "javascript", "testing"]
+tags = ["jest"]
+categories = ["tdd"]
 draft = false
 +++
 
-## is Jest awesome? {#is-jest-awesome}
+## Preface {#preface}

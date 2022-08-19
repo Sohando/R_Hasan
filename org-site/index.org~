@@ -1,8 +1,0 @@
-#+HUGO_BASE_DIR: ~/Blog/
-
-* Hello World
-:PROPERTIES:
-    :EXPORT_FILE_NAME: index
-    :EXPORT_DATE: 2019-10-13
-    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :summary Writing hugo post in Emacs org.
-:END:

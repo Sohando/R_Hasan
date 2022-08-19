@@ -53,7 +53,7 @@ tocopen = false
   iconHeight = 35
 
   [params.profileMode]
-  enabled = true
+  enabled = false
   title = "R_Hasan"
   subtitle = "❛ঐশী জ্যোতিই আমাদের পথ প্রদর্শক❜"
   imageUrl = "r_hasan.jpeg"
