@@ -1,4 +1,4 @@
-#+HUGO_BASE_DIR: ~/r_hasan/
+#+HUGO_BASE_DIR: ~/blog/
 #+title: Jest
 
 
