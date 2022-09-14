@@ -1,4 +1,4 @@
-Blog site for `https://sohando.github.io/`
+Blog site for [My Portfolio](https://sohando.github.io/)
 
 # Getting Started
 ```bash
