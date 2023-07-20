@@ -1,4 +1,4 @@
-baseURL = "https://sohando.github.io/blog"
+baseURL = "https://rhasanm.github.io/blog"
 # baseURL = "localhost"
 title = "R_Hasan - a DevOpsQA Blog"
 paginate = 5
